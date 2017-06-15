@@ -183,47 +183,48 @@ a:active {
 }
 
 .Hangman{
-    	background-image: url(http://lorempixel.com/148/285/);
+    	/*148*/
+    	background-image: url(http://lorempixel.com/256/285/);
     	float: left;
     	height:148px;
-    	width:285px;
-    	margin:1% 1% 1% 3%;
+    	width:256px;
+    	margin:1% 1% 1% 5%;
     	text-align: center;
 }
 
 .RPGGame{
-		background-image: url(http://lorempixel.com/148/285/);
+		background-image: url(http://lorempixel.com/256/285/);
 		float: left;
 		height: 148px;
-		width: 285px;
-		margin:1% 1% 1% 1%;
+		width: 256px;
+		margin:1% 1% 1% 6%;
 		text-align: center;
 }
 
 .Trivia{
-		background-image: url(http://lorempixel.com/148/285/);	
+		background-image: url(http://lorempixel.com/256/285/);	
         float: left;
 		height: 148px;
-		width: 285px;
-		margin:1% 1% 1% 3%;
+		width: 256px;
+		margin:1% 1% 1% 5%;
 		text-align: center;
 }
 
 .Rutger{
-		background-image: url(http://lorempixel.com/148/285/);
+		background-image: url(http://lorempixel.com/256/285/);
 		float: left;
 		height: 148px;
-		width: 285px;
-		margin:1% 1% 1% 1%;
+		width: 256px;
+		margin:1% 1% 1% 6%;
 		text-align: center;
 }
 
 .RPS{
-		background-image: url(http://lorempixel.com/148/285/);
+		background-image: url(http://lorempixel.com/256/285/);
 		float: left;
 		height: 148px;
-		width: 285px;
-		margin:1% 1% 1% 3%;
+		width: 256px;
+		margin:1% 1% 1% 5%;
 		text-align: center;
 
 }
@@ -231,8 +232,8 @@ a:active {
 .box{
 	background-color: #4aaaa5;
 	color: white;
-	width: 285px;
+	width: 256px;
 	height:40px;
 	padding-top: 5%;
-	margin-top: 30%;
+	margin-top: 35%;
 }
